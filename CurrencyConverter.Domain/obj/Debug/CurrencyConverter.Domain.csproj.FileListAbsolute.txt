@@ -1,0 +1,12 @@
+F:\Saeed-Code\CurrencyConverterTest\CurrencyConverter.Domain\bin\Debug\CurrencyConverter.Domain.dll
+F:\Saeed-Code\CurrencyConverterTest\CurrencyConverter.Domain\bin\Debug\CurrencyConverter.Domain.pdb
+F:\Saeed-Code\CurrencyConverterTest\CurrencyConverter.Domain\obj\Debug\CurrencyConverter.Domain.csprojAssemblyReference.cache
+F:\Saeed-Code\CurrencyConverterTest\CurrencyConverter.Domain\obj\Debug\CurrencyConverter.Domain.csproj.CoreCompileInputs.cache
+F:\Saeed-Code\CurrencyConverterTest\CurrencyConverter.Domain\obj\Debug\CurrencyConverter.Domain.dll
+F:\Saeed-Code\CurrencyConverterTest\CurrencyConverter.Domain\obj\Debug\CurrencyConverter.Domain.pdb
+C:\Users\SuleimS\Source\Repos\saeedsul\CurrencyConverter\CurrencyConverter.Domain\obj\Debug\CurrencyConverter.Domain.csprojAssemblyReference.cache
+C:\Users\SuleimS\Source\Repos\saeedsul\CurrencyConverter\CurrencyConverter.Domain\obj\Debug\CurrencyConverter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SuleimS\Source\Repos\saeedsul\CurrencyConverter\CurrencyConverter.Domain\obj\Debug\CurrencyConverter.Domain.dll
+C:\Users\SuleimS\Source\Repos\saeedsul\CurrencyConverter\CurrencyConverter.Domain\obj\Debug\CurrencyConverter.Domain.pdb
+C:\Users\SuleimS\Source\Repos\saeedsul\CurrencyConverter\CurrencyConverter.Domain\bin\Debug\CurrencyConverter.Domain.dll
+C:\Users\SuleimS\Source\Repos\saeedsul\CurrencyConverter\CurrencyConverter.Domain\bin\Debug\CurrencyConverter.Domain.pdb
